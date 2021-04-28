@@ -3,10 +3,10 @@
 <h3 align="center">Wanna you talk with me? Send a friend request on my discord aligoxtoso#8179.</h3>
 
 
-<p align="left"> <a href="https://twitter.com/devalig" target="blank"><img src="https://img.shields.io/twitter/follow/devalig?logo=twitter&style=for-the-badge" alt="devalig" /></a> </p>
+<p align="left"> <a href="https://twitter.com/devalig" target="blank"><img src="https://img.shields.io/twitter/follow/devalig?logo=twitter&style=for-the-badge" alt="devalig" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aligatordev&show_icons=true&locale=en&layout=compact" alt="aligatordev" /></a> </p>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aligatordev&show_icons=true&locale=en&layout=compact" alt="aligatordev" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aligatordev&show_icons=true&locale=en" alt="aligatordev" /></p>
 <h3 align="left">My skills:</h3>
