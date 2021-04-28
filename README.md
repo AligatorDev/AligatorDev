@@ -1,5 +1,5 @@
 <h1 align="center">Hello, I'm Aligator</h1>
-<h3 align="center">A Web developer and FiveM developer from Brazil.</h3>
+<h3 align="center">A Web developer and Software developer from Brazil.</h3>
 <h3 align="center">Wanna you talk with me? Send a friend request on my discord aligoxtoso#8179.</h3>
 
 
