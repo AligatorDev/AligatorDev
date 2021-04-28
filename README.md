@@ -12,10 +12,10 @@
 
 
 <p>
+
+ <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aligatordev&show_icons=true&locale=en&layout=compact" alt="aligatordev" /> 
  <img src="https://github-readme-stats.vercel.app/api?username=aligatordev&show_icons=true&locale=en" alt="aligatordev" />
  
- <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aligatordev&show_icons=true&locale=en&layout=compact" alt="aligatordev" /> 
-
 
 </p>
 
