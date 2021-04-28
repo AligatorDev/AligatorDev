@@ -11,10 +11,11 @@
 
 
 
-<p>&nbsp; <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aligatordev&show_icons=true&locale=en&layout=compact" alt="aligatordev" /> <img align="right" src="https://github-readme-stats.vercel.app/api?username=aligatordev&show_icons=true&locale=en" alt="aligatordev" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aligatordev&show_icons=true&locale=en&layout=compact" alt="aligatordev" /> 
 
-<br></br>
-<br></br>
+<img src="https://github-readme-stats.vercel.app/api?username=aligatordev&show_icons=true&locale=en" alt="aligatordev" />
+</p>
+
 
 <h1 align="center">My skills:</h1>
 
